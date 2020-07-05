@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf25f6ed-2ce5-4d8b-b644-8a72a585ce87" name="Default Changelist" comment="" />
+    <list default="true" id="cf25f6ed-2ce5-4d8b-b644-8a72a585ce87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xin/qicloud/es_test/utils/HtmlparseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xin/qicloud/es_test/utils/HtmlparseUtil.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +27,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -46,11 +58,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/js" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\es_test\ES-test\src\main\resources\static\js" />
       <recent name="D:\studious\code\es_test\src\main\resources" />
     </key>
   </component>
@@ -66,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HtmlparseUtil">
+  <component name="RunManager" selected="Spring Boot.EsTestApplication">
     <configuration name="HtmlparseUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="xin.qicloud.es_test.utils.HtmlparseUtil" />
       <module name="es_test" />
@@ -106,6 +119,7 @@
       <workItem from="1593691763501" duration="710000" />
       <workItem from="1593699918316" duration="1236000" />
       <workItem from="1593913826481" duration="6465000" />
+      <workItem from="1593946908686" duration="2441000" />
     </task>
     <servers />
   </component>
